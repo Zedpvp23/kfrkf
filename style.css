@@ -1,0 +1,150 @@
+
+
+.lox{
+    color: rgb(0, 0, 0);
+    width: 100px;
+    margin-right: 10px;
+    
+    
+    
+    
+   
+}
+
+.search-box{
+    float: right;
+}
+  
+
+
+
+  .fix3{
+    height: 50px ;
+    top: -10px;
+    margin-left: -20px;
+    margin-right: -8px;
+    
+    
+    
+    
+    
+
+    
+}
+.fix{
+ background: #020203;
+ height: 130px;
+ margin-left: -20px;
+ margin-right: -8px;
+ top: -30px;
+
+}
+.fix2{
+    margin-right: 8px;
+    height: 30px;
+    width: 100%;
+   right: 70%;
+   bottom: 60px;
+   
+   
+}
+
+.fix4{
+    
+    height: 30px;
+    width: 30%;
+    left: 70%;
+    margin-left: 8px;
+    bottom: 90px;
+    
+}
+.fix5{
+height: 30px;
+width: 50%;
+left: 25%;
+bottom: 60px;
+}
+.avatar{
+    width: 100px;
+    height: 100px;
+    margin-bottom: -60px;
+    margin-left: 1%;
+    
+}
+.instagram{
+    width: 30px;
+    float: left;
+    
+    margin-left: 30px;
+}
+.telegram{
+    
+    width: 30.5px ;
+    float: left;
+    margin-left: 10px;
+}
+.wk{
+
+    margin-left: 10px;
+    
+    width: 30px;
+    
+}
+.zvezda{
+    width: 65px;
+     margin-top: -20px;
+  float: right;
+  margin-right: 39%;
+    
+}
+.zvezda2{
+    width: 65px;
+    float: left;
+    margin-top: -20px;
+    margin-left: 40%;
+}
+
+.jos{
+
+    margin-top: 13px;
+    margin-bottom: -50px;
+    margin-left: -8px;
+    margin-right: -8px;
+height: 35px;
+
+
+}
+.jos1{
+    height: 20px;
+    margin-top: 19px;
+   margin-left: -10px;
+   margin-right: -8px;
+   margin-bottom: -20px;
+
+}
+.planeta{
+    margin-left: 173px;
+    margin-top: -90px;
+    
+    width: 530px;
+   
+}
+
+.soare{
+    width: 350px;
+    float: left;
+    margin-left: 0%;
+}
+.luna{
+    width: 350px;
+    float: right;
+    margin-right: 0%;
+}
+
+.linii{
+    width: 50px;
+     margin-left: 95%;
+     margin-top: -70px;
+     margin-bottom: 20px;
+    
+}
